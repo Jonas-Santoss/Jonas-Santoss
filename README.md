@@ -4,9 +4,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-rodrigo-dos-santos/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonas.santos_._/)
 
-![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas-Santoss&show_icons=true&theme=tokyonight)
+![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas-Santoss&show_icons=true&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Santoss&hide_progress=true)](https://github.com/Jonas-Santoss/Jonas-Santoss)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Santoss&hide_progress=true&theme=midnight-purple)](https://github.com/Jonas-Santoss/Jonas-Santoss)
 
 ### Tecnologias utilizadas
 
