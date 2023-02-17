@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Santoss&hide_progress=true&theme=midnight-purple)](https://github.com/Jonas-Santoss/Jonas-Santoss)
 
-### Tecnologias utilizadas
+## Tecnologias utilizadas
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
