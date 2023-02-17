@@ -1,13 +1,5 @@
 ### Saudações! Me chamo Jonas Santos 
  
-<p align="left" style="background:yellow">
-      <a href="https://www.linkedin.com/in/jonas-rodrigo-dos-santos/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-      </a>
-      <a href="https://www.instagram.com/jonas.santos_._/" target="_blank">
-      <img align="center" src="https://img.shields.io/badge/-tgmarinho-05122A?style=flat&logo=instagram" alt="instagram"/>
-      </a>
-  </p>
   
  <div>
   <a href="https://github.com/Jonas-Santoss">
