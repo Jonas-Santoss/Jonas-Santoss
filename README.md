@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonas.santos_._/)
 
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas-Santoss&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/Jonas-Santoss/github-readme-stats)
 
 ### Tecnologias utilizadas
