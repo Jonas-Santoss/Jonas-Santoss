@@ -6,7 +6,7 @@
 
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonas-Santoss&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/Jonas-Santoss/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonas-Santoss&hide_progress=true)](https://github.com/Jonas-Santoss/Jonas-Santoss)
 
 ### Tecnologias utilizadas
 
